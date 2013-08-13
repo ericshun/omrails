@@ -1545,3 +1545,122 @@ Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-12 17:10:25 -040
 
 
 Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-12 17:10:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-13 13:30:40 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:40 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:40 -0400
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-13 13:30:43 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:43 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:43 -0400
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:43 -0400
+
+
+Started GET "/about" for 127.0.0.1 at 2013-08-13 13:30:44 -0400
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:44 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:44 -0400
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:44 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-13 13:30:45 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:46 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:46 -0400
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-13 13:30:54 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 14ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:54 -0400
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:54 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:54 -0400
+
+
+Started GET "/about" for 127.0.0.1 at 2013-08-13 13:30:55 -0400
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:55 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:55 -0400
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:55 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-13 13:30:58 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:58 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:58 -0400
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-13 13:30:58 -0400
